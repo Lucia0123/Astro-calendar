@@ -1,6 +1,4 @@
-# Nome: Chiara Lucia Melle, numero di matricola: 344940
-
-# Titolo del progetto: Astro-calendar
+Astro-calendar
 
 # Idea e feature principali: 
 
